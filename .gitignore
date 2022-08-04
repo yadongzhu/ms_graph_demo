@@ -102,3 +102,18 @@ dist
 
 # TernJS port file
 .tern-port
+
+bower_components
+node_modules
+/target/
+.project
+.DS_Store
+js/.DS_Store
+.vscode
+/deploy/
+/db-config/*.json
+/logs/*.log
+dev_rfc.trc
+output
+.VSCodeCounter
+.env*

@@ -1,0 +1,29 @@
+{
+  "name": "ms_graph_demo",
+  "version": "1.0.0",
+  "description": "Demo of Microsoft Graph Api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yadongzhu/ms_graph_demo.git"
+  },
+  "keywords": [
+    "ms",
+    "graph",
+    "api"
+  ],
+  "author": "Yadong Zhu",
+  "license": "ISC",
+  "dependencies": {
+    "@azure/msal-node": "^1.12.1",
+    "axios": "^0.27.2",
+    "dotenv": "^16.0.1"
+  },
+  "bugs": {
+    "url": "https://github.com/yadongzhu/ms_graph_demo/issues"
+  },
+  "homepage": "https://github.com/yadongzhu/ms_graph_demo#readme"
+}
