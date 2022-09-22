@@ -18,9 +18,12 @@
   "author": "Yadong Zhu",
   "license": "ISC",
   "dependencies": {
+    "@azure/identity": "^3.0.0",
     "@azure/msal-node": "^1.12.1",
+    "@microsoft/microsoft-graph-client": "^3.0.2",
     "axios": "^0.27.2",
-    "dotenv": "^16.0.1"
+    "dotenv": "^16.0.1",
+    "isomorphic-fetch": "^3.0.0"
   },
   "bugs": {
     "url": "https://github.com/yadongzhu/ms_graph_demo/issues"
